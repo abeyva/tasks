@@ -44,7 +44,7 @@ A **PHP-based task management web app** that allows users to create tasks, assig
 │── assets/            # CSS & Images
 │── db/                # Database Scripts
 │── README.md          # Project Documentation
-
+```
 
 🛠️ Installation & Setup
 Clone the repository:
