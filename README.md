@@ -2,9 +2,9 @@
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgWkSdis_Pm-ZIFjsEkrr3sxBbrr-h_gZn-GI82BnX7VHsF7x2mK2r7KYg8QNEZrQQmTp_4EV047A-U0UIezRLEqw0DIRsA1pxdKCnPxIoZRj7OVyWJXbPI7pAfxF3p09LaBqaqEtj1uHDBztmhh_a0yG59npNyoJQLicAKoWNWMF3m-Zgi2NMjvKOooQg" width="150" alt="NotesWrittenIn Logo">
 </p>
 
-<h1 align="center" style="color:#05d26f">📝 Task Management Web Application</h1>
+<h1 align="center" style="color:#05d26f">📝 Task Notes Management Web Application</h1>
 
-A simple material-based multi-user Task notes management platform [NotesWrittenIn](https://notes.written.in) designed to transform your ideas and responsibilities into actionable items..
+A simple material-based multi-user Task notes management platform [NotesWrittenIn](https://notes.written.in) designed to transform your ideas and responsibilities into actionable items.
 
 ---
 
