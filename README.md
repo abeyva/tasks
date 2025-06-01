@@ -4,7 +4,7 @@
 
 <h1 align="center" style="color:#05d26f">📝 Task Management Web Application</h1>
 
-A **PHP-based task management system** hosted on [NotesWrittenIn](https://notes.written.in), offering personalized task control, friend-based collaboration, and all-new UI enhancements.
+A simple material-based multi-user Task notes management platform [NotesWrittenIn](https://notes.written.in) designed to transform your ideas and responsibilities into actionable items..
 
 ---
 
@@ -13,7 +13,6 @@ A **PHP-based task management system** hosted on [NotesWrittenIn](https://notes.
 - ✨ **AI Description Generator** for tasks (based on your note content).
 - ✅ **Email Verification** during user registration.
 - 🎨 **Material 3 Expressive Design Principles** applied.
-- 🌿 **New Tree-Inspired Logo**.
 - 📱 **All-New Shadow Bar**: A dynamic bottom navigation that adapts to your current page.
 - 🔐 **Updated Privacy Notice**:
   > We prioritize your privacy. Don't share personal data beyond your email. Your email isn't connected to external services, and we don't share data with third parties. There might be a delay in loading time due to shared server hosting. It is recommended to access the NotesWrittenIn site from within India. This is a very early version of the system. Feel free to share any feedback or suggestions for improvement.
@@ -49,17 +48,13 @@ A **PHP-based task management system** hosted on [NotesWrittenIn](https://notes.
 
 ## 🔍 Preview Screenshots
 
-### Dashboard View  
+### Login page  
 ![Dashboard Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEijsHKfD7enRLVXyvW4eYd6vwJJRQNsPYr2a09J-8dvv-58fyiuFZR8QL6MLTRizYFomhj1altJXF9-z9QRqwNwAUMi-yEPCq40WU1so86ant9ryOc4SnA4k7u9SnNvZ6Vke8VlNXvJw9HvWYx7Yq2MKHP_WSwCTzzqAEOiw2hc0Xp0V1dII9Sq9SvnAoQ)
 
-### Task Assignment View  
+### Notes creation 
 ![Task Assignment Screenshot](https://blogger.googleusercontent.com/img/a/AVvXsEiuYTgNvq55tZmTb3d49Mh5fCwKcNeXJtw1v-abUWqNzW-UF53SOOwPdfMx8r-HIvKN9DG9JozDv9a6ND8yIRFnzb1tedSNGdI6p8PW580ZYKWwEjvhBfwxzgwafm6YpdeL2uf5nP8nsEhU34RCzHHOcNI1jPqYeSOawX_hcan_AmqDROMKFCV3P0cd5D4)
 
 ---
-
-## 📁 Project Structure  
-
-
 
 ## 📁 Project Structure  
 ```bash
